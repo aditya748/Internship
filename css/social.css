@@ -1,0 +1,83 @@
+#fixedsocial {
+    top:30%;
+    height:200px;
+    width:60px;
+    position:fixed;
+    right: 0;
+}
+
+.facebookflat:hover {
+    background:url("../facebook.png");
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-left:-20px;
+    width:70px;
+
+}
+.facebookflat {
+    background:url("../facebook.png") no-repeat;
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+}
+
+.twitterflat {
+    background:url("../twitter.png");
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+}
+.rss {
+    background:url("../rss.png");
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+}
+.linkdin {
+    background:url("../linkedin.png");
+    height:50px;
+    width:50px;
+    transition:ease 500ms;
+    background-size:50px;
+    opacity:1;
+}
+
+.twitterflat:hover {
+    background:url("../twitter.png");
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-left:-20px;
+    width:70px;
+}
+.rss:hover {
+    background:url("../rss.png");
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-left:-20px;
+    width:70px;
+}
+.linkdin:hover {
+    background:url("../linkedin.png");
+    height:50px;
+    width:50px;
+    background-size:60px;
+    opacity:0.5;
+    transition:ease 500ms;
+    margin-left:-20px;
+    width:70px;
+}
